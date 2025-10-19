@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+DEPLOYMENT.md
+TROUBLESHOOTING.md
+PRE-DEPLOYMENT-CHECKLIST.md
+PERFORMANCE-TIPS.md
+.env.local
+.env.example
+node_modules
+.DS_Store
